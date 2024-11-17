@@ -1,6 +1,7 @@
 # HareOfChaos - README  
 
 HareOfChaos je herní projekt ve vývoji, který kombinuje různé herní mechaniky a režimy. Aktuální verze obsahuje základní prvky, jako jsou pohyb, skákání a možnost přepínání mezi dvěma herními režimy.  
+##Hru lze zahrát na na itch.io
 [Hare of Chaos na itch.io](https://jaqbgralti.itch.io/hareofchaos)
 
 
